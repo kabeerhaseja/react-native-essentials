@@ -89,6 +89,6 @@ Distributed under the ISC License.
 
 ## Contact
 
-Kabeer Haseja -haseja45@gmail.com
+Kabeer Haseja haseja45@gmail.com
 
 
