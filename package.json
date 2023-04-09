@@ -1,10 +1,14 @@
 {
-  "name": "kabeerhaseja-react-native-essentials",
-  "version": "1.0.0",
+  "name": "kabeerhaseja-rn-essentials",
+  "version": "1.0.1",
   "description": " A collection of versatile and easy-to-use React Native components to enhance your mobile app development experience.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kabeerhaseja/react-native-essentials.git"
   },
   "author": "Kabeer Haseja",
   "email": "haseja45@gmail.com",

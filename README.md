@@ -16,7 +16,7 @@ To install this hook, simply copy the code in the `useFormScrollToError` functio
 ## installation
 1. To install, run:
    ```sh
-   npm i kabeerhaseja-react-native-essentials
+   npm i kabeerhaseja-rn-essentials
    ```
 
 #Usage
@@ -34,7 +34,7 @@ The `scrollToError` function takes two parameters: `formikRef` and `scrollViewRe
 
 ```
 import React, {useRef} from 'react';
-import {useFormScrollToError} from 'kabeerhaseja-react-native-essentials';
+import {useFormScrollToError} from 'kabeerhaseja-rn-essentials';
 
 function MyForm() {
   const formikRef = useRef(null);
